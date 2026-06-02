@@ -1,0 +1,8 @@
+﻿.modal-mask { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; display: flex; align-items: center; justify-content: center; }
+.modal-content { background: #fff; border-radius: 24rpx; width: 580rpx; padding: 50rpx 40rpx 30rpx; }
+.modal-title { font-size: 34rpx; font-weight: bold; text-align: center; display: block; }
+.modal-body { font-size: 28rpx; color: #666; text-align: center; margin: 30rpx 0; display: block; }
+.modal-footer { display: flex; border-top: 1rpx solid #eee; margin-top: 20rpx; }
+.modal-btn { flex: 1; text-align: center; padding: 24rpx 0; font-size: 30rpx; }
+.modal-btn.cancel { color: #999; border-right: 1rpx solid #eee; }
+.modal-btn.confirm { color: #07c160; font-weight: bold; }

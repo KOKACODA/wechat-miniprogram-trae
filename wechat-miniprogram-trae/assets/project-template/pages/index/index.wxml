@@ -1,0 +1,10 @@
+﻿<view class="container">
+  <view class="header">
+    <text class="title">欢迎使用小程序</text>
+  </view>
+  <view class="content">
+    <view class="card" wx:for="{{list}}" wx:key="id">
+      <text class="card-title">{{item.title}}</text>
+    </view>
+  </view>
+</view>

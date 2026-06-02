@@ -1,0 +1,5 @@
+﻿.container { padding: 30rpx; min-height: 100vh; }
+.header { text-align: center; padding: 60rpx 0; }
+.title { font-size: 44rpx; font-weight: bold; display: block; }
+.card { background: #fff; border-radius: 16rpx; padding: 30rpx; margin-bottom: 20rpx; }
+.card-title { font-size: 32rpx; font-weight: bold; display: block; }
